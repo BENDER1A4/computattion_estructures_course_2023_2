@@ -58,6 +58,7 @@ void SysTick_Handler(void);
 void DMA1_Channel1_IRQHandler(void);
 void DMA1_Channel7_IRQHandler(void);
 void USART2_IRQHandler(void);
+void RTC_Alarm_IRQHandler(void);
 void TIM7_IRQHandler(void);
 /* USER CODE BEGIN EFP */
 
